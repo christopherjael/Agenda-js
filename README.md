@@ -8,3 +8,5 @@ JSON con los campos nombre , apellido, telefono usted podrá agregar nuevos
 contactos a su agenda.
 
 ## Preview
+
+![preview](https://user-images.githubusercontent.com/35937496/196329701-fe14b184-ccc9-4ce9-bddc-3f942ced48e6.gif)
